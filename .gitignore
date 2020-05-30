@@ -1,1 +1,6 @@
 node_modules
+/.idea/.gitignore
+/.idea/js-testing-introduction.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
