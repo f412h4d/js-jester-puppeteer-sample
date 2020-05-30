@@ -5,3 +5,4 @@ node_modules
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/dictionaries/f4rh4d.xml
+/dist/
